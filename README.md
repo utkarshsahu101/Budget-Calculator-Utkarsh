@@ -1,3 +1,3 @@
 # Description
 
-This project calculates the balance on providing budget and expenses.
+Javascript based application which handles expenses of user by calculating it when user provides their budget.
